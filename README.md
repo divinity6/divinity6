@@ -1,6 +1,14 @@
-### Hi there 👋
+![shark](https://capsule-render.vercel.app/api?type=shark&text=Welcome%20To%20Divinity6's%20Github⚡&fontSize=50&color=gradient&height=140)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgrey920.github.io&count_bg=%238A779C&title_bg=%233F4145&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divinity6&layout=compact&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divinity6&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=divinity6&show_icons=true&theme=radical)
 
 <!--
+### Hi there 👋
 **divinity6/divinity6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=GoodBye!&fontSize=90)
