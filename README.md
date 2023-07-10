@@ -3,7 +3,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divinity6&layout=compact&theme=transparent)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divinity6&theme=tokyonight)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=divinity6&show_icons=true&theme=radical)
 
 <!--
 ### Hi there 👋
